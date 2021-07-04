@@ -5,11 +5,11 @@
 </div>
 
 <ul id="myUL">
-  <li>Hit the gym</li>
-  <li class="checked">Pay bills</li>
-  <li>Meet George</li>
-  <li>Buy eggs</li>
-  <li>Read a book</li>
-  <li>Organize office</li>
+  <li>have a shower</li>
+  <li class="checked">go fitness</li>
+  <li>go job</li>
+  <li>look house</li>
+  <li>prepare a meal</li>
+  <li>set up tomorrow's meeting</li>
 </ul>
 
